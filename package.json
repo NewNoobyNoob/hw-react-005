@@ -2,7 +2,7 @@
   "name": "hw-react-005",
   "version": "0.1.0",
   "private": true,
-  "webpage": "https://NewNoobyNoob.github.io/hw-react-005",
+  "homepage": "https://NewNoobyNoob.github.io/hw-react-005",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
